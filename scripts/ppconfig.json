@@ -137,8 +137,8 @@
     "android": {
         "name": "PakePlus",
         "showName": "PakePlus",
-        "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
+        "version": "2.0.0",
+        "webUrl": "https://m.agedm.io/",
         "id": "com.pakeplus.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
@@ -146,8 +146,8 @@
         "rounded": true,
         "copyTo": "./app/src/main/res",
         "androidResDir": "./app/src/main/res",
-        "desc": "Package for personal use only, please do not use for commercial purposes（打包仅限个人使用，请勿传播或商业用途）",
-        "pubBody": "Package for personal use only, please do not use for commercial purposes（打包仅限个人使用，请勿传播或商业用途）",
+        "desc": "打包仅限个人使用，请勿传播或商业用途",
+        "pubBody": "Package for personal use only, please do not use for commercial purposes（）",
         "isHtml": false,
         "debug": false,
         "safeArea": "all"
