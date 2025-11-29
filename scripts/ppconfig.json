@@ -137,8 +137,8 @@
     "android": {
         "name": "PakePlus",
         "showName": "PakePlus",
-        "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
+        "version": "1.0.0",
+        "webUrl": "https://baidu.com/",
         "id": "com.pakeplus.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
